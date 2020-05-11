@@ -1,0 +1,17 @@
+{
+    "DPAD_CONFIG": "0380634C",
+    "DPAD_TEXTURE": "03806870",
+    "EXT_OBJECTS": "038065B0",
+    "G_C_HEAP": "03808000",
+    "G_PAYLOAD_ADDR": "03800000",
+    "HASH_ICONS": "038063D8",
+    "HUD_COLOR_CONFIG": "03806468",
+    "MISC_CONFIG": "03806528",
+    "PAYLOAD_END": "03807870",
+    "PAYLOAD_START": "03800000",
+    "SAVE_FILE_CONFIG": "03806554",
+    "dpad_sprite": "03806458",
+    "g_external_effects": "03806368",
+    "heap_next": "038065A8",
+    "setup_db": "03806430"
+}
