@@ -1,4 +1,4 @@
-This is the source code for the Better Majora's Mask hack (https://www.romhacking.net/hacks/5122/) by Maroc. This project is based off the 1.12 version of the MM-Randomizer (https://github.com/ZoeyZolotova/mm-rando)
+This is the source code for the Majora's Mask REDUX hack (https://www.romhacking.net/hacks/5122/) by Maroc. This project is based off the 1.12 version of the MM-Randomizer (https://github.com/ZoeyZolotova/mm-rando)
 
 NB: if you wish to build the hack with the dpad icon for masks and ocarina on the right rather than the left, just rename the `build` directory into `build - dpadleft` and rename the `build - dpadright` directory into `build` before running the build script.
 
